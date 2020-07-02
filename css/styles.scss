@@ -1,0 +1,14 @@
+@import "./variables";
+@import "./settings";
+@import "./header";
+@import "./section";
+@import "./footer";
+@import "./utilities";
+@import "./responsive";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smothing: antialised;
+  background: #000;
+  color: #999;
+}
